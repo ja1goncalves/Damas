@@ -1,0 +1,22 @@
+				INSTRUÇÕES
+		1. Escolha o modo de jogo antes de tudo. Se quiser
+		  Jogar contra seu colega clique em jogador1 vs 
+		   jogador2, mas se quiser jogar sozinho,
+			clique em jogador vs maquina.
+
+		2. O jogador que começa é sempre a branca,
+			a menos que você escolha a 
+		peça escura quando começar a jogar sozinho.
+
+	     3. Caso não consiga se movimentar, foi por que 
+		clicou em lugares errados duas vezes,
+			clique na peça que quiser
+		movimentar duas vezes e no lugar que 
+			quiser movimentar uma vez.
+
+		4. Para decretar o fim de jogo, clique 
+		  duas vezes em qualquer peça para"
+			verificar o resultado.
+
+		5. As peças se movem automaticamentem quando 
+		precisam capturar, NÃO SE ASSUSTE.
